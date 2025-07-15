@@ -29,8 +29,13 @@ Visor de archivos Gerber (como Gerbv o KiCAD)
 STEVAL-USBI2CFT (SE USÓ EL INCORPORADO DENTRO DE LA PLACA DE DESARROLLO STEVAL-WBC86TX)
 
 👨‍💻 Autores
+
 Deiby Alexander Forero Calderon
+
 Deiver Yair Quiñonez Osorio
+
 Proyecto de Grado – Ingeniería Electrónica
+
 Universidad Industrial de Santander
+
 2025
