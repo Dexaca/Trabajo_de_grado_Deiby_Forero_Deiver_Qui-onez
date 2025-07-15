@@ -3,6 +3,7 @@ Sistema de Carga Inalámbrica con Autenticación NFC
 Este repositorio contiene todos los archivos asociados al proyecto de grado titulado "Implementación de un sistema de carga inalámbrica con autenticación mediante tecnología NFC", basado en la placa STEVAL-WBC86TX y controlado mediante un microcontrolador ATtiny85.
 
 📂 Contenido del repositorio
+\n
 Código fuente:
 Archivos desarrollados para el microcontrolador ATtiny85, encargado de controlar el encendido del cargador a través del reconocimiento de etiquetas NFC (NTAG216).
 Archivos de programación (.hex y .h):
