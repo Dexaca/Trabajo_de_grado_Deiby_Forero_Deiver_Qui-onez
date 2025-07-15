@@ -1,6 +1,6 @@
 # Trabajo_de_grado_Deiby_Forero_Deiver_Quinonez
 Sistema de Carga Inalámbrica con Autenticación NFC
-Este repositorio contiene todos los archivos asociados al proyecto de grado titulado "Implementación de un sistema de carga inalámbrica con autenticación mediante tecnología NFC", basado en la placa STEVAL-WBC86TX y controlado mediante un microcontrolador ATtiny85.
+Este repositorio contiene todos los archivos asociados al proyecto de grado titulado "Implementación de un sistema de carga inalámbrica con autenticación", basado en la placa STEVAL-WBC86TX y controlado mediante un microcontrolador ATtiny85.
 
 📂 Contenido del repositorio
 
