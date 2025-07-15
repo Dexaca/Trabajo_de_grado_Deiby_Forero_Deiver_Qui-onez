@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB1.GBR   5/03/2025  11:03:17 p. m.
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Layer 1                                 
+.gbr                Layer 2                                 
+.gbr                Bottom Layer                            
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Bottom Component Center                 
+.gbr                Bottom Designator                       
+.gbr                Bottom Courtyard                        
+.gbr                Bottom Assembly                         
+.gbr                Top Component Center                    
+.gbr                Mechanical 1                            
+.gbr                Top Designator                          
+.gbr                Bottom 3D Body                          
+.gbr                Top Courtyard                           
+.gbr                Top 3D Body                             
+.gbr                Top Component Outline                   
+.gbr                Top Assembly                            
+.gbr                Bottom Component Outline                
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
