@@ -7,7 +7,7 @@ Este repositorio contiene todos los archivos asociados al proyecto de grado titu
 Código fuente:
 
 Archivos desarrollados para el microcontrolador ATtiny85, encargado de controlar el encendido del cargador a través del reconocimiento de etiquetas NFC (NTAG216).
-Archivos de programación (.hex y .h):
+Archivos de programación (.hex y .h)
 Binarios y cabeceras necesarios para la compilación y carga del firmware del STWBC86JR.
 
 Gerbers de la PCB:
@@ -26,7 +26,7 @@ Grabador o programador (por ejemplo, Arduino como ISP)
 
 Visor de archivos Gerber (como Gerbv o KiCAD)
 
-STEVAL-USBI2CFT (SE USO EL INCORPORADO DENTRO DE LA PLACA DE DESARROLLO STEVAL-WBC86TX)
+STEVAL-USBI2CFT (SE USÓ EL INCORPORADO DENTRO DE LA PLACA DE DESARROLLO STEVAL-WBC86TX)
 
 👨‍💻 Autores
 Deiby Alexander Forero Calderon
